@@ -1,0 +1,4 @@
+item01*LG 4K TV*80inch 4K Smart TV*7000.00*288
+item02*Samsung Vacuum*1000W Vacuum*100.00*300
+item03*Huawei Phone Charger*100W Fast Charger*50.00*300
+item04*Razer Viper V3 Pro*RGB Mouse*800.00*300
